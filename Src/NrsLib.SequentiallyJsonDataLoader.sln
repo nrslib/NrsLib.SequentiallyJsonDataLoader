@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NrsLib.SequentiallyJsonDataLoader", "NrsLib.SequentiallyJsonDataLoader\NrsLib.SequentiallyJsonDataLoader.csproj", "{5FFEE00B-82C0-499B-8671-B75C3E9A58D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NrsLib.SequentiallyJsonDataLoader.Tests", "NrsLib.SequentiallyJsonDataLoader.Tests\NrsLib.SequentiallyJsonDataLoader.Tests.csproj", "{C332F19E-8D18-497C-9598-2718075DD4D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FFEE00B-82C0-499B-8671-B75C3E9A58D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FFEE00B-82C0-499B-8671-B75C3E9A58D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FFEE00B-82C0-499B-8671-B75C3E9A58D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FFEE00B-82C0-499B-8671-B75C3E9A58D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C332F19E-8D18-497C-9598-2718075DD4D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C332F19E-8D18-497C-9598-2718075DD4D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C332F19E-8D18-497C-9598-2718075DD4D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C332F19E-8D18-497C-9598-2718075DD4D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76679AEE-56FA-4B38-B131-57440BE9B404}
+	EndGlobalSection
+EndGlobal
